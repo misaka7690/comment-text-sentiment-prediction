@@ -2,7 +2,7 @@
 
 该项目针对2020年美赛C题给出的评论数据(评论标题,评论内容)给出情感识别.
 
-项目模型,数据参考[通过LSTM实现中英文语句情感分析，来判断消极还是积极](https://github.com/Elliottssu/lstm-sentiment-analysis)
+项目模型,数据引用[通过LSTM实现中英文语句情感分析，来判断消极还是积极](https://github.com/Elliottssu/lstm-sentiment-analysis)
 
 ## 项目说明
 
